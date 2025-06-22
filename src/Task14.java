@@ -14,6 +14,8 @@ public class Task14 {
 
 
             System.out.println();
+
         }
+        System.out.println();
     }
 }
